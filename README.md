@@ -36,7 +36,6 @@ Requirements for Azure are:
 **Netapp
 Terraform & Cloud Manager Terraform Provider (netapp.com)
 * https://registry.terraform.io/providers/NetApp/netapp-cloudmanager/latest/docs/resources/cvo_azure
-* 
  
 **Azure
 * https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs
